@@ -1,0 +1,45 @@
+---
+title: ""
+format: 
+  docx:
+    reference-doc: "tech_documents/template.docx"
+editor: visual
+---
+
+# Long term patterns of pollinator sharing among plants - stability or chaos? 
+
+## Intro 
+
+Plants often share pollinators within plant-pollinator interaction network. However, our knowledge is very limited to few seasons of observation, while the plant and pollinator populations are falling and rising with the effect on the pollinator sharing stability. The goal is to investigate how un/stable are the interactions and pollinator sharing, to test if there are stable modules within the network and to which extend are the changes in pollinator sharing among plants driven by changes in plant abundance.
+
+## Main questions
+
+-   Is pollinator sharing between pairs of plant species stable over years?
+
+-   Which pair of plants are stable and which ones are variable over years?
+
+-   Can we identify stable modules within the network?
+
+-   How much is pollinator sharing driven by changes in plant abundances and how much by other factors (which ones?)
+
+## Methods and Data 
+
+-   15 years of continuous observation of plots (20 m apart, regular grid, \~96 plot, each plot 4\*4 m) with various plant abundance (plant abundance measured independently quantitatively and semi quantitatively depending on plant species).
+
+-   \~20+ plant species per year, quite generalist species
+
+-   Abundances of plants and intensity of plant-pollinator interactions vary over years.
+
+## Main tasks
+
+-   Finishing plant abundance data clearing (until the end of September)
+
+-   Finishing plant-pollinator interaction data clearing and synonymization (start of October, depends on colleagues in Praha)
+
+-   Combining both data sets (October)
+
+-   Weather data?
+
+-   Figuring out analysis - collaboration with somebody?
+
+![Example of the pollinator sharing network from 14 years (last year needs to be added). Derived from bipartite network of plant-pollinator interactions.](images/annual_variation.png){fig-align="center"}
